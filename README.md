@@ -17,5 +17,5 @@ The documentation of the model is provided at: https://huggingface.co/distilbert
 The code was built using the code from the medium blog : 
 https://brighteshun.medium.com/sentiment-analysis-part-1-finetuning-and-hosting-a-text-classification-model-on-huggingface-9d6da6fd856b
 
-# I have pushed the model to my huggingface repo as well.
-# link : https://huggingface.co/AkhilJX/fine-tuned-distilbert-base-uncased
+# I have pushed the model to my hugging face repo as well.
+# link: https://huggingface.co/AkhilJX/fine-tuned-distilbert-base-uncased
