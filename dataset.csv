@@ -1,0 +1,301 @@
+Text,labels
+"Yes, this product sounds great. I would like to buy it.",positive
+I've been looking for something like this. Tell me how to purchase.,positive
+This seems useful. Please provide more details.,positive
+"Sure, I’m interested in your product.",positive
+I’m happy with the offer. How do I proceed?,positive
+That price works for me,positive
+It’s exactly what I need.  sign me up!,positive
+I think this will solve my problem. Please go ahead.,positive
+Let me know how I can make the payment.,positive
+This is something I’ve been considering for a while. I’d like to buy.,positive
+The discount makes it worthwhile. I’m in.,positive
+Sounds interesting,positive
+I’m convinced. Let’s finalize the details.,positive
+Can you ship it to my address? I’ll take it.,positive
+I’ve read good reviews about your product. Count me in.,positive
+This is a good deal. I’ll take it.,positive
+"Perfect, I was waiting for this. Let’s proceed.",positive
+I’ve heard about this product. I want it.,positive
+Please send me the invoice. I’m ready to buy.,positive
+This fits my budget. I’ll go for it.,positive
+I’d like to place an order for two units.,positive
+Sounds like a good investment. I’m interested.,positive
+"Yes, I’m ready to purchase this today.",positive
+Let’s set up a time for delivery.,positive
+I’m placing my order now.,positive
+This is exactly what I was looking for. Sign me up.,positive
+Please send me the confirmation email for this purchase.,positive
+Can I get two of these? I’d like to buy for a friend too.,positive
+This looks promising. I’d like to give it a try.,positive
+I’ve used a similar product before. I’ll take this one.,positive
+"Yes, I want to avail of the discount.",positive
+I’d like to try it out. When can you deliver?,positive
+"Sure, I’m okay with the terms. Let’s proceed.",positive
+This is a fantastic offer. I’m going for it.,positive
+It’s a great price. Please book one for me.,positive
+This is within my budget. I’ll take it.,positive
+I’m happy with this deal. Count me in.,positive
+Sounds like it’ll work for me. I’d like to buy.,positive
+Thank you for reaching out. I’d like to purchase this.,positive
+I trust this brand. Let’s do it.,positive
+This product is perfect for my needs. I’ll buy it.,positive
+How soon can I get this? I want it.,positive
+"I’ve done my research, and I’m ready to buy.",positive
+Let me give you my details for the purchase.,positive
+Please finalize this offer for me.,positive
+This offer is hard to resist. I’m in.,positive
+I’ve been waiting for this product. I’m buying it.,positive
+Great timing! I’m ready to order.,positive
+"Yes, I’m confident this will be worth it.",positive
+Please process my order.,positive
+I’ve been waiting for such an offer.  please sign me up.,positive
+"Yes, this looks like a great option for me.",positive
+I’d like to try this out.  how can I proceed?,positive
+Please count me in for this amazing deal.,positive
+I’m ready to make the payment.  just tell me how.,positive
+Sounds like a fantastic deal. I want to grab it.,positive
+I’m very interested. Can you confirm the details?,positive
+"Yes, I need this product. Where do I order?",positive
+This offer is too good to miss. Let’s move ahead.,positive
+Please register my name for this product.,positive
+I’m convinced this is what I need. Proceed with my order.,positive
+"I’ve seen similar products, but this one stands out. I’ll buy it.",positive
+I trust your recommendation.  let’s go ahead.,positive
+This is exactly what I’ve been searching for.,positive
+I’ll finalize this today. Just guide me.,positive
+I’d like to purchase this immediately.,positive
+Your explanation has been convincing. Count me in.,positive
+I’m happy with this product. Let’s complete the deal.,positive
+The features are impressive. I’ll take one.,positive
+I’m good with the price. Let’s proceed.,positive
+This product fits my needs perfectly.,positive
+How can I secure this deal today?,positive
+"Yes, I’m ready to make this purchase.",positive
+I think this will work for me. Please book one.,positive
+The payment terms look good. I’ll take it.,positive
+I’d like to move forward with this product.,positive
+The value you’re offering is excellent. I’m in.,positive
+I was planning to buy something like this. I’ll take it.,positive
+Let me know the final steps for the purchase.,positive
+I’m very interested in this product. What’s next?,positive
+"No, I’m not interested.",negative
+"Sorry, I’m not looking for this right now.",negative
+I don’t need this product at the moment.,negative
+"No thanks, I’m happy with what I have.",negative
+This doesn’t suit my requirements.,negative
+I’ve already purchased a similar product.,negative
+"Sorry, but this isn’t for me.",negative
+Please don’t call me about this again.,negative
+"No, I can’t afford it right now.",negative
+I don’t trust this brand.,negative
+This product seems unnecessary for me.,negative
+I don’t think it’s worth the price.,negative
+"Not at this time, thank you.",negative
+I’m not convinced about this offer.,negative
+This isn’t what I’m looking for.,negative
+I’ll pass on this. Thanks.,negative
+"No, I already have something similar.",negative
+"Sorry, I’ve had bad experiences with such products.",negative
+This doesn’t seem useful to me.,negative
+"No, I don’t see any value in this.",negative
+I’m not ready to make a decision now.,negative
+"Thanks, but I’m not buying anything today.",negative
+"Sorry, I’m not in the market for this.",negative
+I’ve heard negative reviews about this product.,negative
+I don’t have the budget for it.,negative
+"I’m not interested, please stop calling.",negative
+"No, I’m happy with my current provider.",negative
+This isn’t a priority for me right now.,negative
+I’m skeptical about this product.,negative
+"Sorry, I’m not in a position to buy this.",negative
+I don’t believe this product will work for me.,negative
+This is too expensive for my budget.,negative
+"No, I don’t think this is a good fit.",negative
+I’ve already decided against it.,negative
+"Sorry, I’m not interested in these kinds of offers.",negative
+I’m not planning to make any purchases right now.,negative
+This isn’t the right time for me.,negative
+"No, I’d rather wait for something better.",negative
+I have no need for this product.,negative
+I’m not willing to spend on this.,negative
+Please don’t contact me again regarding this.,negative
+"Sorry, I’m busy and can’t discuss this.",negative
+This is not what I’m looking for.,negative
+"No, I’ve had issues with such products before.",negative
+I’m not in favor of this product.,negative
+"Sorry, I’m not convinced by your offer.",negative
+This doesn’t match my expectations.,negative
+"No, I’d prefer to look at other options.",negative
+I don’t think this is for me.,negative
+I’m not willing to consider this product.,negative
+"No, this doesn’t appeal to me.",negative
+"I’m sorry, but I’m not interested in buying this.",negative
+This is not something I’m considering right now.,negative
+I already have a better alternative. No thanks.,negative
+"Sorry, but I don’t see any value in this.",negative
+I’ve heard negative feedback about such products.,negative
+I don’t think this will solve my problems.,negative
+I’m not in the market for this type of product.,negative
+"Thanks, but I’ll have to pass on this offer.",negative
+I’ve made up my mind. I don’t need this.,negative
+"No, I’m not comfortable making this purchase.",negative
+I don’t trust the claims about this product.,negative
+I’m already using something similar. No thanks.,negative
+I’d prefer not to discuss this further.,negative
+This is out of my budget. I can’t afford it.,negative
+"Sorry, but I don’t think I’ll buy it.",negative
+I’m not sure this is worth my money.,negative
+"No, this isn’t something I’m looking for.",negative
+I have no intention of buying this.,negative
+"Sorry, I’m happy with my current provider.",negative
+This product doesn’t seem reliable.,negative
+I’m not willing to spend on this right now.,negative
+I don’t think this is necessary for me.,negative
+"No, I’ve decided against buying it.",negative
+I can’t justify spending on this product.,negative
+This product doesn’t meet my requirements.,negative
+"Sorry, I’ve already invested in something else.",negative
+I don’t think I’ll be using this anytime soon.,negative
+Please take me off your list. I’m not interested.,negative
+This doesn’t seem like a good fit for me.,negative
+"Good morning, how are you doing today?",neutral
+"Hello, hope you’re having a great day.",neutral
+"Good evening, how can I assist you today?",neutral
+"Hi, I just wanted to check in with you.",neutral
+How’s everything going on your end?,neutral
+I hope this is a convenient time to talk.,neutral
+Thank you for taking my call today.,neutral
+I hope I’m not disturbing you.,neutral
+"Hello, how’s your week been so far?",neutral
+Is now a good time to have a quick chat?,neutral
+Just wanted to say thank you for your time.,neutral
+I appreciate you taking this call.,neutral
+Hope you’re having a productive day.,neutral
+I trust everything is fine on your side.,neutral
+How’s the weather in your area today?,neutral
+Thanks for staying on the line with me.,neutral
+I hope you’ve been keeping well.,neutral
+Wishing you a great day ahead.,neutral
+I just wanted to touch base with you.,neutral
+It’s always a pleasure talking to you.,neutral
+Hope you’ve had your coffee already!,neutral
+How’s your morning (or evening) been so far?,neutral
+I hope you’re enjoying your day so far.,neutral
+Thanks for taking the time to hear me out.,neutral
+How’s everything going at work?,neutral
+Just wanted to ask if everything’s okay with you.,neutral
+I hope you’re doing well today.,neutral
+It’s great to speak with you again.,neutral
+How’s your family doing these days?,neutral
+Wishing you a peaceful and happy day.,neutral
+I trust your day’s been going well so far.,neutral
+Thanks for making the time to chat with me.,neutral
+Just checking in to say hi and introduce myself.,neutral
+Hope all’s going smoothly for you this week.,neutral
+I hope I’m catching you at a good time.,neutral
+How’s life treating you these days?,neutral
+It’s nice to connect with you today.,neutral
+Wishing you a cheerful evening ahead.,neutral
+Just a quick call to see how you’re doing.,neutral
+It’s great to hear your voice today.,neutral
+How’s your weekend looking so far?,neutral
+I just wanted to say hello and check in.,neutral
+How are things going on your side of the world?,neutral
+Wishing you a lovely morning/afternoon/evening.,neutral
+Thanks for picking up the call today.,neutral
+I hope you’ve been enjoying good health lately.,neutral
+How’s your schedule looking this week?,neutral
+Thanks for sparing a few minutes for this chat.,neutral
+Hope you’re not too busy to chat for a moment.,neutral
+Just wanted to wish you a fantastic day ahead.,neutral
+We are calling from the Malayala Manorama office.,neutral
+We gave you a profile under the name of,neutral
+Hello sir / Hello madam,neutral
+"""Thank you for your time.""",neutral
+"""Let me know if you have any questions.""",neutral
+"""I’ll wait for your response.""",neutral
+"""Could you confirm your availability for a follow-up call?""",neutral
+"""We are available to discuss this further if needed.""",neutral
+"""Have a wonderful day!""",neutral
+"""It’s a pleasure speaking with you.""",neutral
+"""Would you like me to send more information?""",neutral
+"""Let us know your thoughts whenever you’re ready.""",neutral
+"""Thank you for considering our product.""",neutral
+"""I’ll check back with you later.""",neutral
+"""Please feel free to reach out anytime.""",neutral
+"""I hope this information was helpful.""",neutral
+"""We’re here to answer any questions you have.""",neutral
+"""Thanks for letting us know your preferences.""",neutral
+"""Looking forward to hearing back from you.""",neutral
+"""Take your time to decide; no rush.""",neutral
+"""Feel free to call us if you need assistance.""",neutral
+hmmm,neutral
+ok,neutral
+i am good,neutral
+No problem,neutral
+I hope I’m not disturbing you,neutral
+I need more time to think about this.,neutral
+i was just looking into the profiles,neutral
+i will decide and contact you,neutral
+let me see,neutral
+Please send me the link to complete the purchase.,positive
+This offer is worth every penny. Let’s close it.,positive
+I trust your service.  I’ll take this.,positive
+This matches my expectations. I’ll buy it.,positive
+Please process my request as soon as possible.,positive
+I’ve been meaning to buy this. Let’s finalize it.,positive
+I’m confident this will meet my needs.,positive
+This is a great investment. I’m going ahead.,positive
+I’ll buy it for my personal use. Please guide me.,positive
+I appreciate the details. I’m making the purchase now.,positive
+How soon can I get this delivered?,positive
+I’d like to order two units right away.,positive
+I’ll take this deal before it ends. It’s perfect.,positive
+I’ve heard good things about this product. I’ll take it.,positive
+"I’ve compared it to others, and this seems better.",positive
+This is exactly what I’ve wanted for months.,positive
+Let’s go ahead with the order immediately.,positive
+Thank you for this offer.  I’ll go with it.,positive
+I’m ready to move forward without hesitation.,positive
+This is too good to decline. Let’s finalize it.,positive
+I’m not convinced by the benefits.,negative
+This is beyond what I can afford right now.,negative
+"No, I’m not interested in these types of products.",negative
+I’d rather wait for a better deal.,negative
+This isn’t the kind of solution I’m looking for.,negative
+"I’m sorry, but I’ll pass on this completely.",negative
+"I’ve tried something similar, and it didn’t work for me.",negative
+This doesn’t match my needs at all.,negative
+I’m already satisfied with what I have.,negative
+I don’t see how this product will help me.,negative
+I’m not ready to commit to this offer.,negative
+"No, I don’t have time to consider this right now.",negative
+I’m not confident this product is worth it.,negative
+Please don’t call me again about this product.,negative
+I don’t want to take any risks with this.,negative
+I’ve already rejected similar offers.,negative
+This price is too high for me to consider.,negative
+"No, I won’t be able to go ahead with this.",negative
+I’d prefer to explore other options.,negative
+I have no plans to buy this product.,negative
+Do you offer any discounts or payment plans?,neutral
+Let me read more about this before deciding.,neutral
+I’ll need a day or two to think this through.,neutral
+Can I get this product customized to my needs?,neutral
+What’s the expiry date for this offer?,neutral
+How does this compare to your previous models?,neutral
+I’m undecided right now.  please give me more time.,neutral
+I need more information before making a decision.,neutral
+Ah,neutral
+"I’m just browsing for now, not looking to make any decisions yet.",neutral
+"I’m currently considering different options, but I’m open to hearing about this.",neutral
+I’m just looking for general information at the moment.,neutral
+Can you give me a little more background on your services?,neutral
+I’ll need to check with my family before making a decision.,neutral
+"I’m not entirely sure what I'm looking for yet, but let me hear more.",neutral
+I’ll need to review this later and get back to you.,neutral
+I’ll review everything you’ve shared with me before deciding,neutral
+"I appreciate the call, but I’m not ready to make a decision right now.",neutral
+I’ll need to look into your services more before making any decisions.,neutral
+let me review your services,neutral
